@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.utmp/
+.gradle/
+*.log
+
+# Visual Studio, Rider, VS Code cache and project files
+.vs/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Tutorial companion assets (kept local, excluded from public repository)
+Assets/LuaLanderCompanion/
+Assets/LuaLanderCompanion.meta
+
+# Portfolio notes (kept local, excluded from public repository)
+portfolio-entry.md
